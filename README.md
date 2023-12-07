@@ -3,7 +3,7 @@ African culture is expressed in its arts and crafts, religion, clothing, cuisine
 
 ## Author
 
-[Peter Njukia](https://github.com/PeterNjukia/)
+[Edward maina](https://github.com/Edmaina/)
 
 
 ## Description
@@ -40,7 +40,7 @@ This project is a web application for Delani studio. Through this web applicatio
 ![Design](./screenshots/design.jpg)
 
 ## Live link Demo
-[Here is link to the site]( https://PeterNjukia.github.io/Delani-Studio/)
+[Here is link to the site]( /)
 
 ## Screenshot
 ![Screenshot](./screenshots/screenshot.png)
@@ -49,10 +49,10 @@ This project is a web application for Delani studio. Through this web applicatio
 
 > To make a contribution to the code used or provide suggestions you can click on the contact link and email me your suggestions.
 
-> Email: Reach me on [Email](pnjukia@gmail.com) 
+> Email: Reach me on [Email](kariuki.maina@gmail.com) 
 
 ## License
-Copyright (c) 2022 <Peter_Njukia>
+Copyright (c) 2023 <Edward Maina>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files , to deal
